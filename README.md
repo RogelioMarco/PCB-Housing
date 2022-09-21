@@ -1,8 +1,15 @@
 # :gear: PCB-Housing :gear:
 It holds the CAD files of a PCB and its housing which shows all the access to the multiple ports and the bottons wich montrates the full desing to be used for other projects. 
 
-# 3d model
-![Housing](Housing.gif)
+
+# Electrical :zap:
+Here is the [link](https://github.com/jminjares4/ESP32-Sensor-Data-Logger) for the electrical design.
+
+# 3D Mechanical
+![Housing](images/Housing.gif)
+
+# 3D Electrical
+![PCB](images/sensor_data_logger_3D.gif)
 
 ## **Author**
 * [**Rogelio E Marco** :gear:](https://github.com/RogelioMarco)<br>  * Bachelors of Science in Mechanical Engineering<br>
