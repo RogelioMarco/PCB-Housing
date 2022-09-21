@@ -2,7 +2,7 @@
 It holds the CAD files of a PCB and its housing which shows all the access to the multiple ports and the bottons wich montrates the full desing to be used for other projects. 
 
 # 3d model
-![Housing](Housing.gif)
+![Housing](Housing/Housing.gif)
 
 ## **Author**
 * [**Rogelio E Marco** :gear:](https://github.com/RogelioMarco)<br>  * Bachelors of Science in Mechanical Engineering<br>
